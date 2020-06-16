@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-wkwebview-engine",
+  "name": "cordova-plugin-wkwebview-engine-iphonex",
   "version": "1.2.2-dev",
   "description": "The official Apache Cordova WKWebView Engine Plugin",
   "main": "index.js",
