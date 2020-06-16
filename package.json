@@ -5,10 +5,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-wkwebview-engine"
+    "url": "https://github.com/mburakeker/cordova-plugin-wkwebview-engine-iphonex"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-wkwebview-engine/issues"
+    "url": "https://github.com/mburakeker/cordova-plugin-wkwebview-engine-iphonex/issues"
   },
   "keywords": [
     "cordova",

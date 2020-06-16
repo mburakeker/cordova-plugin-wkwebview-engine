@@ -27,7 +27,7 @@
     <description>Cordova WKWebView Engine Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,wkwebview,webview</keywords>
-    <repo>https://github.com/apache/cordova-plugin-wkwebview-engine</repo>
+    <repo>https://github.com/mburakeker/cordova-plugin-wkwebview-engine-iphonex</repo>
 
 	<engines>
         <engine name="cordova-ios" version=">=4.0.0 <6.0.0" />
